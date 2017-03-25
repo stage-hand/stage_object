@@ -6,8 +6,8 @@ require 'stage_object/version'
 Gem::Specification.new do |spec|
   spec.name          = "stage_object"
   spec.version       = StageObject::VERSION
-  spec.authors       = ["bbellanca"]
-  spec.email         = ["branden.bellanca@gmail.com"]
+  spec.authors       = ["bellanca", "AlexisKAndersen"]
+  spec.email         = ["branden.bellanca@gmail.com",'alexis.t.andersen@gmail.com']
 
   spec.summary       = %q{Ruby Implementation of the ScreenPlay pattern.}
   spec.description   = %q{Ruby Implementation of the ScreenPlay pattern.}
